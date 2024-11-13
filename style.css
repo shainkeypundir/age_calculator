@@ -1,0 +1,17 @@
+.main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.content{
+    background: #67606027;
+    padding: 30px;
+    border-radius: 20px;
+    height: 250px;
+    width: 300px;
+    font-size: 20px;
+}
+
